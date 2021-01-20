@@ -1,4 +1,4 @@
-[![Hi I'm Yashwanth Korla](./images/banner.png)](https://yashwanthkorla.com)
+[![Hi I'm Yashwanth Korla](./Images/banner.png)](https://yashwanthkorla.com)
 
 <!--
 **yashwanthkorla/yashwanthkorla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
