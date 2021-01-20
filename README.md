@@ -16,6 +16,8 @@ Want to know more about me? [Check out my portfolio.](https://yashwanthkorla.com
 ## 📌 Pinned Repositories
 
 [![KYNews repo](https://github-readme-stats.vercel.app/api/pin/?username=yashwanthkorla&repo=KYNews&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/yashwanthkorla/KYNews)
+[![MedCam repo](https://github-readme-stats.vercel.app/api/pin/?username=yashwanthkorla&repo=MedCam&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/yashwanthkorla/MedCam)
+[![Safe Route Advisor repo](https://github-readme-stats.vercel.app/api/pin/?username=yashwanthkorla&repo=KYNews&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/yashwanthkorla/Safe-Route-Advisor)
 
 ##  &#x1f4c8; Github Stats
 
@@ -23,14 +25,13 @@ Want to know more about me? [Check out my portfolio.](https://yashwanthkorla.com
 
 [![Yashwanth Github stats](https://github-readme-stats.vercel.app/api?username=yashwanthkorla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/yashwanthkorla)
 
-<!-- Here are some ideas to get you started:
+### Additional Info:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🔭 I’m currently working on - React Js
+- 🌱 I’m currently learning - DS and Algo's
+- 👯 I’m looking to collaborate on Javascript projects. Can be of any type.
+- 🤔 I’m looking for help with - creating a library
+- 💬 Ask me about - Javascript, Typescript, React, MERN Stack.
+- 📫 How to reach me: [Gmail](mailto:yashwanthkorla@gmail.com)
+- ⚡ Fact: I am a Mechancial Engineer.
 
