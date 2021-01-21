@@ -17,7 +17,8 @@ Want to know more about me? [Check out my portfolio.](https://yashwanthkorla.com
 
 [![KYNews repo](https://github-readme-stats.vercel.app/api/pin/?username=yashwanthkorla&repo=KYNews&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/yashwanthkorla/KYNews)
 [![MedCam repo](https://github-readme-stats.vercel.app/api/pin/?username=yashwanthkorla&repo=MedCam&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/yashwanthkorla/MedCam)
-[![Safe Route Advisor repo](https://github-readme-stats.vercel.app/api/pin/?username=yashwanthkorla&repo=KYNews&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/yashwanthkorla/Safe-Route-Advisor)
+[![Safe Route Advisor repo](https://github-readme-stats.vercel.app/api/pin/?username=yashwanthkorla&repo=Safe-Route-Advisor&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/yashwanthkorla/Safe-Route-Advisor)
+[![Safe Route Advisor repo](https://github-readme-stats.vercel.app/api/pin/?username=yashwanthkorla&repo=js-utils&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/yashwanthkorla/js-utils)
 
 ##  &#x1f4c8; Github Stats
 
